@@ -1,1 +1,4 @@
-{'firstName':'arun','lastName':'simon'}
+{
+   "firstName": "arun",
+   "lastName": "simon"
+}
